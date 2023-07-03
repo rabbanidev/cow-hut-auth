@@ -1,0 +1,2 @@
+Wed Jun 28 2023 20:8:21 [University Managment] error: Database connection failed: Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.oqb8vtg.mongodb.net
+Wed Jun 28 2023 20:13:10 [University Managment] error: Database connection failed: Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.oqb8vtg.mongodb.net

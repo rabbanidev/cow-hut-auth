@@ -1,0 +1,36 @@
+{
+  message: '📋 Database connected successfully',
+  level: 'info',
+  label: 'University Managment',
+  timestamp: '2023-06-16T04:04:49.841Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'University Managment',
+  timestamp: '2023-06-16T04:04:49.858Z'
+}
+Fri Jun 16 2023 10:5:24 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:5:24 [University Managment] info: Application listening on port 5000
+Fri Jun 16 2023 10:6:4 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:6:4 [University Managment] info: Application listening on port 5000
+Fri Jun 16 2023 10:13:53 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:13:53 [University Managment] info: Application listening on port 5000
+Fri Jun 16 2023 10:32:24 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:32:24 [University Managment] info: Application listening on port 5000
+Fri Jun 16 2023 10:32:40 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:32:40 [University Managment] info: Application listening on port 5000
+Fri Jun 16 2023 10:35:32 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:35:32 [University Managment] info: Application listening on port 5000
+Fri Jun 16 2023 10:37:58 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:37:58 [University Managment] info: Application listening on port 5000
+Fri Jun 16 2023 10:39:57 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:39:57 [University Managment] info: Application listening on port 5000
+Fri Jun 16 2023 10:41:3 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:41:3 [University Managment] info: Application running on port 5000
+Fri Jun 16 2023 10:54:9 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:54:9 [University Managment] info: Application running on port 5000
+Fri Jun 16 2023 10:54:54 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:54:54 [University Managment] info: Application running on port 5000
+Fri Jun 16 2023 10:58:39 [University Managment] info: 📋 Database connected successfully
+Fri Jun 16 2023 10:58:39 [University Managment] info: Application running on port 5000

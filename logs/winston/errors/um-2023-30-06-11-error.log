@@ -1,0 +1,6 @@
+Fri Jun 30 2023 11:24:51 [University Managment] error: Database connection failed: MongooseServerSelectionError: Server selection timed out after 30000 ms
+Fri Jun 30 2023 11:27:18 [University Managment] error: Database connection failed: MongooseServerSelectionError: Server selection timed out after 30000 ms
+Fri Jun 30 2023 11:29:0 [University Managment] error: Database connection failed: MongooseServerSelectionError: Server selection timed out after 30000 ms
+Fri Jun 30 2023 11:30:43 [University Managment] error: Database connection failed: MongoAPIError: SRV URI does not support directConnection
+Fri Jun 30 2023 11:31:30 [University Managment] error: Database connection failed: MongooseServerSelectionError: Server selection timed out after 30000 ms
+Fri Jun 30 2023 11:32:43 [University Managment] error: Database connection failed: MongooseServerSelectionError: Server selection timed out after 30000 ms

@@ -1,0 +1,140 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\.db8fe8759f96ab2b8f1f6f697f3ea453afffeb47-audit.json",
+    "files": [
+        {
+            "date": 1687920786262,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-28-06-08-error.log",
+            "hash": "de2b1cda11b0abfc0a51f07ec7e9a2066decbc2bebe05a9ecdfa5cedeef54190"
+        },
+        {
+            "date": 1687921612991,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-28-06-09-error.log",
+            "hash": "1dc8210b7618e605a6e7f135dab0200093caebd867c7fbd322e003b7dc7304ff"
+        },
+        {
+            "date": 1687924901595,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-28-06-10-error.log",
+            "hash": "2cd97b36877a947270c4c3f4472138620db3fc208b9f4d6ef928a4e7c7242e5d"
+        },
+        {
+            "date": 1687931070091,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-28-06-11-error.log",
+            "hash": "03d760daa5f5f1a096c1402fbbded547c5c316cf542801de444454bb262a9e99"
+        },
+        {
+            "date": 1687932291258,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-28-06-12-error.log",
+            "hash": "be235366fa756857eb0eb0d658c68748d608b54f39a6af86b66220369f2479a1"
+        },
+        {
+            "date": 1687946302558,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-28-06-15-error.log",
+            "hash": "87eb780cb5f49cc63bfcf78bc15ff826b66ec40373cadd5813ebcce5de971211"
+        },
+        {
+            "date": 1687946467296,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-28-06-16-error.log",
+            "hash": "c9f062661672239a0e210854e2e837c296a5d03ec878bc538265ddc447803828"
+        },
+        {
+            "date": 1687956348255,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-28-06-18-error.log",
+            "hash": "6fd9a35be27304ba0da22b0db0c7984b813179c97ec937030c5c13088326303f"
+        },
+        {
+            "date": 1687957901439,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-28-06-19-error.log",
+            "hash": "28175ac4df1822d3ae9bcd5d7b34ff7633a0ec2cf7c6bacd1ac97113625c8d4d"
+        },
+        {
+            "date": 1687961152268,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-28-06-20-error.log",
+            "hash": "0ff8df4d4317ecb541b28c6906e1fb5edc215a921393fe9b5bbacd012e5bcdb8"
+        },
+        {
+            "date": 1688052640337,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-29-06-21-error.log",
+            "hash": "c644cdc7dd803af6351b25d611747f4daee168719962ec761827e8933983f518"
+        },
+        {
+            "date": 1688054451235,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-29-06-22-error.log",
+            "hash": "2cbfa021087f7ec53bace507811e35b2541b5e99df8003b4a22212b1f2d3646c"
+        },
+        {
+            "date": 1688102658661,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-30-06-11-error.log",
+            "hash": "c1cf733bc3607ca5414b53e52c8a2f96d8d122f2d07631e87d3cf3fe15f9024f"
+        },
+        {
+            "date": 1688104858196,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-30-06-12-error.log",
+            "hash": "9bd0519df97d5d0bb69d40694c1aabce893adac388ef94e0dbcb65ea9d19ad46"
+        },
+        {
+            "date": 1688111887039,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-30-06-13-error.log",
+            "hash": "f48b3fa88a0dd0ea0c7de1c85d27d280125a9197e07822d0e60a0b60e7ff385e"
+        },
+        {
+            "date": 1688112016944,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-30-06-14-error.log",
+            "hash": "cbb73284e9d42a54ff0ab03f57aa6ae8cfd13900b246ff57fff065ef28d7bec7"
+        },
+        {
+            "date": 1688115920819,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-30-06-15-error.log",
+            "hash": "a1c4cc5960728f11aa9a0c81102e77b76588ad326ce60a05980b50f74433e862"
+        },
+        {
+            "date": 1688132191498,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-30-06-19-error.log",
+            "hash": "8bd140a2ef6f3a72da0d55f40bb590897e55facdc285e6484ff38c6313a4a6e5"
+        },
+        {
+            "date": 1688134028447,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-30-06-20-error.log",
+            "hash": "7bd13ce17e864eac449797ca68f93111b8fd4a2a1c8b20376e50f096529d48c9"
+        },
+        {
+            "date": 1688138794076,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-30-06-21-error.log",
+            "hash": "ffe1a2a27464ed961e77a9acd4d7eb59c13fc3580da6e567cb8fc0cc6d66645f"
+        },
+        {
+            "date": 1688141033514,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-30-06-22-error.log",
+            "hash": "f2f760ca8fe52d458faf72adc82f6ddd4cc5765502920be37fdc4c77298ee49f"
+        },
+        {
+            "date": 1688176768175,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-01-07-07-error.log",
+            "hash": "1f06aa3621b890a3065c43f9389c67ebc3494192ce72724d03be0e78e9cdc735"
+        },
+        {
+            "date": 1688177674594,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-01-07-08-error.log",
+            "hash": "228371b605ba7647b4be35b7bc357f67a8dd4738081a8f4dd788a32c7c347874"
+        },
+        {
+            "date": 1688360770637,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-03-07-11-error.log",
+            "hash": "ba11b34dfda0e8b4a764ca02a053b78553fe9be5cb9aee56bf84f365466907c5"
+        },
+        {
+            "date": 1688364124087,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-03-07-12-error.log",
+            "hash": "595025bd069f2ef1f57250b9e1af9d6d659e0ffa5f487a8e7a8e560ff2ed2cb2"
+        },
+        {
+            "date": 1688369896809,
+            "name": "F:\\Level-2\\project\\Cow-Hut-Auth\\logs\\winston\\errors\\um-2023-03-07-13-error.log",
+            "hash": "44d867c1a565aaa057790b3efce14d400a18ea130e6395fb2ff41ccf04e6ff7d"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,110 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\.6cfbd50756f2b60ce3e51945ff2ab2eea2b707ec-audit.json",
+    "files": [
+        {
+            "date": 1686888286517,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-16-06-10-success.log",
+            "hash": "29e5c3cfd94128cecc9dacf71f5ccb7cc489b26f3dbc61748c0764aa5bd21a05"
+        },
+        {
+            "date": 1686891683624,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-16-06-11-success.log",
+            "hash": "c09b5bcb88cdb8049433845210d22f193c5e70b56babbf174b0934966255e913"
+        },
+        {
+            "date": 1686895275588,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-16-06-12-success.log",
+            "hash": "e9ce60f3e990e9ff4906adb4126f0177039f7d7ea474ffbf06317cf6e62d18e5"
+        },
+        {
+            "date": 1686905949169,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-16-06-14-success.log",
+            "hash": "f157113766b54c85e5968c5cd9622c7e0fb64128617d75d5ec6770d27b96dbb1"
+        },
+        {
+            "date": 1686906165173,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-16-06-15-success.log",
+            "hash": "8504e3d666ad4def7c6dac71bb26a674de88b1b31c927952f503fc2385e20b3a"
+        },
+        {
+            "date": 1686918028194,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-16-06-18-success.log",
+            "hash": "ba5bf744847153b1fa1647f924de662cc1459e2443406dc0fd18c79e46d2ca14"
+        },
+        {
+            "date": 1686920401206,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-16-06-19-success.log",
+            "hash": "b719e8309975a09c2043f4281f886dfed208084f8a8c7dc967d53ce158ef8cfe"
+        },
+        {
+            "date": 1686924845228,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-16-06-20-success.log",
+            "hash": "27c35efe898100a068c21dad522ad486c57893e29c2249a1f128bdc698291c24"
+        },
+        {
+            "date": 1686967361861,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-17-06-08-success.log",
+            "hash": "b5ec40e72c5ead8c364bbc141c5e910581dfe90f77b0ba69ea8b90fce86b9e97"
+        },
+        {
+            "date": 1686970961605,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-17-06-09-success.log",
+            "hash": "d634c5c9e29fb78cfea682f23eed1ce3b167523e9b615f14e68019d6f91bf732"
+        },
+        {
+            "date": 1686977219717,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-17-06-10-success.log",
+            "hash": "1a93a20dfde37e1b215b8bd7ae1d9eed34bab82686c1d80cd3f5cb67ec0965f3"
+        },
+        {
+            "date": 1686978006387,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-17-06-11-success.log",
+            "hash": "066511cb71a0add63820ee0915c1296e7efde5e5a7e875483186976b7b31e33e"
+        },
+        {
+            "date": 1686981731602,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-17-06-12-success.log",
+            "hash": "d2a34e3b821fe75abce6d8d10b2ee025f0b816807aafb41445f4d1db59560c17"
+        },
+        {
+            "date": 1686986495510,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-17-06-13-success.log",
+            "hash": "723f4fb4d320de2f73f4cfa946a635f2161291223c0cc77123b00203ecf60885"
+        },
+        {
+            "date": 1686988802895,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-17-06-14-success.log",
+            "hash": "bb435865fcfd091ab890f29829b37c8e36dafb5c81b872c2b5ca44ffa0a5c816"
+        },
+        {
+            "date": 1686996007229,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-17-06-16-success.log",
+            "hash": "337ff64c0be1b3004e9cf82be537681da56f872a15022f6bacb3eeabfb0523eb"
+        },
+        {
+            "date": 1687006900999,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-17-06-19-success.log",
+            "hash": "3f206fdd70e6d14a89ac6702554b32739b27468dd2824df8870307087df9c230"
+        },
+        {
+            "date": 1687092951908,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-18-06-18-success.log",
+            "hash": "8a6a9ca3ea659c63b8f6219ae5b8a3db2d2ef440f3c7230e44ba50856db1babe"
+        },
+        {
+            "date": 1687093213649,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-18-06-19-success.log",
+            "hash": "709837bba72bcdf57fe31b44abd2489a417d1619067ded938be59e343355f800"
+        },
+        {
+            "date": 1687098707226,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\successes\\um-2023-18-06-20-success.log",
+            "hash": "a94f21d06ca2c5b94cfcdb10a4e174a180d456662264a7ea8ff4c38b48ff6728"
+        }
+    ],
+    "hashType": "sha256"
+}

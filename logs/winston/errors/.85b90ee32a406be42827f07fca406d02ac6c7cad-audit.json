@@ -1,0 +1,110 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\.85b90ee32a406be42827f07fca406d02ac6c7cad-audit.json",
+    "files": [
+        {
+            "date": 1686888286532,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-16-06-10-error.log",
+            "hash": "0151b322ee1c6b9e0d461e4440d01c576f799d7398f9a5c025c8574de0da2758"
+        },
+        {
+            "date": 1686891683669,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-16-06-11-error.log",
+            "hash": "d67ce3cecc4836ef49bf462db963615df156bfbbb534735543d2413afb643674"
+        },
+        {
+            "date": 1686895275601,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-16-06-12-error.log",
+            "hash": "9874ab221041812f883a440b0ebe4ba574611f068a1c17b54d243f6a4d6c48dd"
+        },
+        {
+            "date": 1686905949235,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-16-06-14-error.log",
+            "hash": "ffaa85e1207f4e35fe3c0730de0d179b7684df00971e23dc5f5111d5da88fdb0"
+        },
+        {
+            "date": 1686906165186,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-16-06-15-error.log",
+            "hash": "4ef9bf1edf01b6b4d60b459104a3154fbe19feb052b6ca3c41b5970238a2d9db"
+        },
+        {
+            "date": 1686918028203,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-16-06-18-error.log",
+            "hash": "f296d5b5fd3b61edeaa1080d8119289086c3b8f912e3d9f4ee8052f2a3e7bb2f"
+        },
+        {
+            "date": 1686920401216,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-16-06-19-error.log",
+            "hash": "f61b75ab8ec9b40f398262b5e1c88e07052a575c06d3c9e635fea8be8065ecf5"
+        },
+        {
+            "date": 1686924845240,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-16-06-20-error.log",
+            "hash": "c85198b045f5fd2bbc94c89b657bbd11f523fb2a5bd2637815a9f43faf649974"
+        },
+        {
+            "date": 1686967361870,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-17-06-08-error.log",
+            "hash": "91da7501f920b4a98e629bac1162bd3ce47b09a2da22fdceb83bcd50152b8e2f"
+        },
+        {
+            "date": 1686970961619,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-17-06-09-error.log",
+            "hash": "764771cd4290029167c86ee8d88bcf3f5dff238d60bdbd65ea761b63c7eab44a"
+        },
+        {
+            "date": 1686977219724,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-17-06-10-error.log",
+            "hash": "497619611212b2488cdc66674168a0a5d91fddd0079a273db0e345994106181e"
+        },
+        {
+            "date": 1686978006397,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-17-06-11-error.log",
+            "hash": "1525bca2cba50baf4e43dddb877708a4a59159c299ea3365373164f9eb4ee10f"
+        },
+        {
+            "date": 1686981731670,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-17-06-12-error.log",
+            "hash": "550264f0ca63e4942bb5043ddbcca2b96fb048681dc16e044df7a6ae154c0ffe"
+        },
+        {
+            "date": 1686986495519,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-17-06-13-error.log",
+            "hash": "6c2d65b23bb0a8cb849cc1879a8a40aa6a84107f5d80291f3191186f4817c47a"
+        },
+        {
+            "date": 1686988833167,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-17-06-14-error.log",
+            "hash": "5e38b55d881b8217326595aeb40f48eca56e2cf957e229b4822e3caf47f9339e"
+        },
+        {
+            "date": 1686996007237,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-17-06-16-error.log",
+            "hash": "03e9cd7c7e141c812b78150eeace180d10c259328a2ffd9cb5f0e52ed7f1e5a0"
+        },
+        {
+            "date": 1687006901027,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-17-06-19-error.log",
+            "hash": "75821632bbe167a78142c0a91d08fafd81a0775e5485a54a50cc620d084ea603"
+        },
+        {
+            "date": 1687092951922,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-18-06-18-error.log",
+            "hash": "40d683d67882584853c1e64bcfee2d50f18b40157c08acc9e01492606b4c27b8"
+        },
+        {
+            "date": 1687093213660,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-18-06-19-error.log",
+            "hash": "d2192d32ab37b87f88e09f35cf0bf5e8f426f4382da6feeaf442b1e32a5d8021"
+        },
+        {
+            "date": 1687098707232,
+            "name": "F:\\Level-2\\project\\Cow-Hut\\logs\\winston\\errors\\um-2023-18-06-20-error.log",
+            "hash": "f5496be2ab53ed3f75eb58813b10b10da7c9e1bfa01c23df2c2012bfa6ea312c"
+        }
+    ],
+    "hashType": "sha256"
+}
